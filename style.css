@@ -1,10 +1,8 @@
-
+/* navbar start */
 .nav_logo {
     height: 30px;
     width: 110px;
 }
-
-
 
 .navbar-nav li a {
     font-size: 15px;
@@ -46,17 +44,15 @@ form.info_form {
     box-shadow: 0 0 2px rgb(194, 182, 182);
 }
 
-/* .input_info::placeholder {
-    padding-left: 10px;
-    padding-top: 20px;
-} */
-
 .srch_btn {
     border-radius: 2px;
     background-color: #00bb9b;
     color: #fff;
-
 }
+
+/* navbar end */
+
+/* home start */
 
 .home_bg {
     padding-left: 0;
@@ -89,7 +85,9 @@ color: #fff;
     font-weight: bold;
     margin-bottom: 120px;
 }
+/* home end */
 
+/* blog start */
 .blog_heading {
     font-size: 44px;
     line-height: 54px;
@@ -180,7 +178,9 @@ i.b_smbl {
 .blog_quality:hover h3 {
     color: #00bb9b;
 }
+/* blog end */
 
+/* portfolio start */
 .img_card_ {
     height: 210px;
     width:auto;
@@ -247,6 +247,9 @@ i.b_smbl {
     bottom: 30px; 
 }
 
+/* portfolio end */
+
+/* contact start */
 footer {
     background-color: #2f3f51;
 }
@@ -365,6 +368,8 @@ p.career_para {
 .contact_flex {
     gap: 5%;
 }
+
+/* end */
 
 .foc:focus {
     box-shadow: none;
